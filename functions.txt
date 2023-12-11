@@ -1,0 +1,16 @@
+addLocation(&graph, 0, "Main Gate");
+addLocation(&graph, 1, "Mac");
+addLocation(&graph, 2, "Library");
+addLocation(&graph, 3, "Gandhi Chowk");
+addLocation(&graph, 4, "11th Block");
+addLocation(&graph, 5, "Food Court");
+
+addRoute(&graph, 0, 1, 100);
+addRoute(&graph, 0, 5, 150);
+addRoute(&graph, 1, 2, 50);
+addRoute(&graph, 1, 5, 100);
+addRoute(&graph, 2, 3, 50);
+addRoute(&graph, 2, 5, 80);
+addRoute(&graph, 3, 4, 100);
+addRoute(&graph, 3, 5, 30);
+addRoute(&graph, 4, 5, 200);

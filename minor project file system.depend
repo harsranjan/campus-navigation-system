@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1701332038 source:c:\users\ranja\onedrive - upes\documents\codes\codeblocks\minor project file system\main.c
+	<stdio.h>
+	<stdbool.h>
+	<limits.h>
+	<string.h>
+
